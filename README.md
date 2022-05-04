@@ -1,2 +1,1 @@
-# EngSoft
-Padroes de Projeto
+# curso-padroes
