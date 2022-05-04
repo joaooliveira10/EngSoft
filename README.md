@@ -1,1 +1,1 @@
-# Padroe de Projetos
+# Padrões de Projetos
